@@ -7,7 +7,7 @@ The submission for this project is a web app where you can chat with a codebase.
 -If you want to use React and Next.js, see the AI Chatbot template on [Vercel](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
 -See an example of a web app that does this [here](https://sage.storia.ai/) and check out a recording of our [RAG workshop](https://app.headstarter.co/content/accelerator/recordings/rag-workshop).
 
-#### Here are some additional challenges for this project if you are finished early:
+#### Here are some additional challenges for this project:
 - Add support for image uploads when chatting with the codebase - this is called Multimodal RAG.
 - Add a way to select different codebases to chat with.
 - Add a way to update the Pinecone index when you push any new commits to your repo. This would be done through a webhook that's triggered on each commit, where the codebase is re-embedded and added to Pinecone.
