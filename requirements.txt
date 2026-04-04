@@ -1,0 +1,7 @@
+# Used by Streamlit Community Cloud. Local installs can use `pip install -e ".[ml]"` instead.
+numpy>=1.26
+openai>=1.40
+python-dotenv>=1.0
+plotly>=5.20
+streamlit>=1.40
+sentence-transformers>=3.0
