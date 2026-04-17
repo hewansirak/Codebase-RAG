@@ -1,0 +1,8 @@
+{"question": "How are Python files split into function and class chunks?", "expected_files": ["codebase_rag/chunking.py"]}
+{"question": "How does BM25 get combined with vector search?", "expected_files": ["codebase_rag/retrieval.py"]}
+{"question": "How is the GitHub webhook signature verified?", "expected_files": ["codebase_rag/webhook.py"]}
+{"question": "How is the conversation history kept for follow-up questions?", "expected_files": ["codebase_rag/generation.py"]}
+{"question": "How is a GitHub repository cloned?", "expected_files": ["codebase_rag/ingest.py"]}
+{"question": "How is the treemap of retrieved files built?", "expected_files": ["codebase_rag/repomap.py"]}
+{"question": "How are retrieval hit rate and MRR computed?", "expected_files": ["codebase_rag/evaluate.py"]}
+{"question": "Where are indexes saved and loaded from disk?", "expected_files": ["codebase_rag/store.py"]}
